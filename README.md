@@ -17,6 +17,7 @@ Created a dynamic table based upon a dataset that was provided. Filter was creat
 ## Level 2:
 
 - multiple input tags and dropdown was created, so that user can set multiple filters and search for UFO sightings using the following       criteria based on the table columns:
+
   i.	date/time
   ii.	city
   iii.	state
